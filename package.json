@@ -1,6 +1,6 @@
 {
   "name": "@leizhiyuan/clearcache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "clear cache",
   "main": "index.js",
   "scripts": {
