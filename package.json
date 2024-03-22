@@ -1,7 +1,12 @@
 {
   "name": "@leizhiyuan/clearcache",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "clear cache",
+  "homepage": "https://github.com/leizhiyuan/clearCache",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leizhiyuan/clearCache.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
