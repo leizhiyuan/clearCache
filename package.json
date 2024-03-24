@@ -5,7 +5,7 @@
   "homepage": "https://github.com/leizhiyuan/clearCache",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leizhiyuan/clearCache.git"
+    "url": "git+https://github.com/leizhiyuan/clearCache.git"
   },
   "main": "index.js",
   "scripts": {
